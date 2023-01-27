@@ -214,9 +214,6 @@ network-manager-applet
 networkmanager-pptp
 mtr
 speedtest-cli
-remmina
-remmina-plugin-rdesktop
-freerdp
 
 #REPOSITORIOS
 uaiso-keyring
@@ -234,3 +231,12 @@ virtualbox-ext-oracle
 gimp
 audacity
 audacity-docs
+
+#REMOTO
+remmina-git
+remmina-plugin-rdesktop
+remmina-plugin-rustdesk
+remmina-plugin-anydesk-git
+remmina-plugin-teamviewer
+remmina-plugin-folder
+freerdp
