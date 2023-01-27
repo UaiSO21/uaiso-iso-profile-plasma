@@ -215,6 +215,8 @@ networkmanager-pptp
 mtr
 speedtest-cli
 remmina
+remmina-plugin-rdesktop
+freerdp
 
 #REPOSITORIOS
 uaiso-keyring
@@ -227,3 +229,8 @@ trizen
 biglinux-apps-rename
 biglinux-webapps
 bigbashview
+
+virtualbox-ext-oracle
+gimp
+audacity
+audacity-docs
