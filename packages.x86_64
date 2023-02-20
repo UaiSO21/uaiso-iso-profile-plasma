@@ -161,7 +161,7 @@ uaiso21-keyring
 
 #DESKTOP-UAI21
 uaiso-rename-apps
-uaiso-meta-upgrade
+#uaiso-meta-upgrade
 
 #INSTALADOR
 alci-calamares
