@@ -93,7 +93,7 @@ refind
 reiserfsprogs
 rp-pppoe
 rsync
-rxvt-unicode-terminfo
+#rxvt-unicode-terminfo
 screen
 sdparm
 sg3_utils
@@ -137,7 +137,7 @@ mtr
 neofetch
 os-prober
 python-gobject
-rxvt-unicode
+#rxvt-unicode
 speedtest-cli
 wget
 wmctrl
@@ -159,8 +159,9 @@ konsole
 #REPO
 uaiso21-keyring
 
-#DESKTOP
-
+#DESKTOP-UAI21
+uaiso-rename-apps
+uaiso-meta-upgrade
 
 #INSTALADOR
 alci-calamares
