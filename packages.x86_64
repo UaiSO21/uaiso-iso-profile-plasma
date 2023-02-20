@@ -150,7 +150,6 @@ net-tools
 wireguard-tools
 
 #PLASMA
-
 egl-wayland
 plasma-meta
 plasma-wayland-session
