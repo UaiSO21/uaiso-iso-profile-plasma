@@ -1,8 +1,8 @@
 #UAISO-CLI
 alsa-utils
 amd-ucode
-arch-install-scripts
-archinstall
+#arch-install-scripts
+#archinstall
 b43-fwcutter
 base
 bind
@@ -89,7 +89,7 @@ pptpclient
 pv
 qemu-guest-agent
 refind
-reflector
+#reflector
 reiserfsprogs
 rp-pppoe
 rsync
@@ -112,7 +112,6 @@ udftools
 usb_modeswitch
 usbmuxd
 usbutils
-vim
 virtualbox-guest-utils-nox
 vpnc
 wireless-regdb
@@ -121,14 +120,14 @@ wpa_supplicant
 wvdial
 xfsprogs
 xl2tpd
-zsh
+#zsh
 
 #+CLI
 bash-completion
 curl
 dex
 fakeroot
-force-upgrade
+#force-upgrade
 jq
 libxinerama
 linux-headers
@@ -155,17 +154,13 @@ plasma-meta
 plasma-wayland-session
 sddm
 xorg-xwayland-git
+konsole
 
 #REPO
 uaiso21-keyring
 
-#BIG-LINUX
-biglinux-webapps
-bigbashview
-biglinux-noise-reduction-pipewire
-
 #DESKTOP
-jre
+
 
 #INSTALADOR
 alci-calamares
