@@ -1,2 +1,3 @@
-# uaiso-iso-profile-plasma
-Profile de criação do UAISO Plasma
+# Profile para o LiveCD e Instalador do UISO Evolve Plasma
+
+Contendo as instruções de instalação do UISO Evolve Plasma
