@@ -163,6 +163,7 @@ uaiso21-keyring
 uaiso-rename-apps
 #uaiso-meta-upgrade
 flatpak
+snapd
 
 #INSTALADOR
 alci-calamares
