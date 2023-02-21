@@ -155,7 +155,8 @@ plasma-wayland-session
 sddm
 xorg-xwayland-git
 konsole
-dolhin
+dolphin
+dolphin-plugins
 org.kde.plasma.dittomenu
 uaiso-skel-plasma
 
