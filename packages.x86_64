@@ -155,13 +155,16 @@ plasma-wayland-session
 sddm
 xorg-xwayland-git
 konsole
+dolhin
+org.kde.plasma.dittomenu
+uaiso-skel-plasma
 
 #REPO
 uaiso21-keyring
 
 #DESKTOP-UAI21
 uaiso-rename-apps
-#uaiso-meta-upgrade
+uaiso-meta-upgrade
 flatpak
 snapd
 
