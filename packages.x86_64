@@ -13,6 +13,7 @@ clonezilla
 cloud-init
 cryptsetup
 darkhttpd
+dialog
 ddrescue
 dhclient
 dhcpcd
