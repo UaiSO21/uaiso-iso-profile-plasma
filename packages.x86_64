@@ -132,7 +132,7 @@ fakeroot
 #force-upgrade
 jq
 libxinerama
-linux-headers
+#linux-headers
 make
 mkinitcpio-openswap
 mtr
