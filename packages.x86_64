@@ -161,6 +161,7 @@ dolphin
 dolphin-plugins
 org.kde.plasma.dittomenu
 uaiso-skel-plasma
+uaiso-kwin-hide-title
 
 #REPO
 uaiso21-keyring
