@@ -7,7 +7,6 @@ bind
 brltty
 broadcom-wl
 btrfs-progs
-clonezilla
 cloud-init
 cryptsetup
 darkhttpd
@@ -76,9 +75,7 @@ ntfs-3g
 nvme-cli
 open-iscsi
 open-vm-tools
-#openconnect
 openssh
-openvpn
 partclone
 parted
 partimage
@@ -151,6 +148,8 @@ konsole
 dolphin
 dolphin-plugins
 uaiso-skel-plasma
+uaiso-evolve-orion
+
 
 #REPO
 uaiso21-keyring
