@@ -1,8 +1,6 @@
 #UAISO-CLI
 alsa-utils
 amd-ucode
-#arch-install-scripts
-#archinstall
 b43-fwcutter
 base
 bind
@@ -49,7 +47,6 @@ less
 lftp
 libfido2
 libusb-compat
-#linux
 uaiso-kernel-linux
 linux-atm
 linux-firmware
@@ -91,11 +88,9 @@ pptpclient
 pv
 qemu-guest-agent
 refind
-#reflector
 reiserfsprogs
 rp-pppoe
 rsync
-#rxvt-unicode-terminfo
 screen
 sdparm
 sg3_utils
@@ -122,24 +117,20 @@ wpa_supplicant
 wvdial
 xfsprogs
 xl2tpd
-#zsh
 
 #+CLI
 bash-completion
 curl
 dex
 fakeroot
-#force-upgrade
 jq
 libxinerama
-#linux-headers
 make
 mkinitcpio-openswap
 mtr
 neofetch
 os-prober
 python-gobject
-#rxvt-unicode
 speedtest-cli
 wget
 wmctrl
@@ -159,18 +150,13 @@ xorg-xwayland-git
 konsole
 dolphin
 dolphin-plugins
-org.kde.plasma.dittomenu
 uaiso-skel-plasma
-uaiso-kwin-hide-title
 
 #REPO
 uaiso21-keyring
 
 #DESKTOP-UAI21
-uaiso-rename-apps
 uaiso-meta-upgrade
-uaiso-srv
-uaiso-grub-themes
 flatpak
 snapd
 
