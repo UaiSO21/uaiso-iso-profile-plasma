@@ -3,8 +3,8 @@
 
 iso_name="uaiso-plasma"
 iso_label="ARCH_$(date +%Y%m)"
-iso_publisher="Arch Linux <https://archlinux.org>"
-iso_application="Arch Linux Live/Rescue CD"
+iso_publisher="UaiSO Linux <https://archlinux.org>"
+iso_application="UaiSO Live/Rescue CD"
 iso_version="$(date +%Y-%m-%d-%H)"
 install_dir="arch"
 buildmodes=('iso')
@@ -14,8 +14,6 @@ bootmodes=('bios.syslinux.mbr' 'bios.syslinux.eltorito'
 arch="x86_64"
 pacman_conf="pacman.conf"
 airootfs_image_type="squashfs"
-# airootfs_image_tool_options=('-Xcompression-level' '1' '-b' '1M')
-# airootfs_image_tool_options=('-comp' 'zstd' '-Xcompression-level' '15' '-b' '1M')
 airootfs_image_tool_options=('-comp' 'xz' '-Xbcj' 'x86' '-b' '1M' '-Xdict-size' '1M')
 file_permissions=(
   ["/etc/shadow"]="0:0:400"
