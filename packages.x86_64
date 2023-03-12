@@ -45,7 +45,7 @@ less
 lftp
 libfido2
 libusb-compat
-uaiso-kernel-linux
+uaiso-kernel-linux-lts
 linux-atm
 linux-firmware
 linux-firmware-marvell
